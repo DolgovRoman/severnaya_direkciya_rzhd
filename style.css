@@ -449,6 +449,15 @@ ul li {
         max-width: 20%;
         height: auto;
     }
+    footer {
+        padding: 3px 0;
+        font-size: 10px;
+        line-height: 1; 
+    }
+
+    footer p {
+        margin: 0;
+    }
 }
 
 
