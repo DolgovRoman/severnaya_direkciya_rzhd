@@ -438,7 +438,7 @@ ul li {
     }
 
     .service-image {
-        max-width: 100%;
+        max-width: 50%;
         height: auto;
     }
     .news-text {
@@ -446,7 +446,7 @@ ul li {
     }
 
     .news-image {
-        max-width: 100%;
+        max-width: 50%;
         height: auto;
     }
 }
