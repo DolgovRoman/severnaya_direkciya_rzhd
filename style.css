@@ -433,6 +433,22 @@ ul li {
     form button {
         font-size: 12px;
     }
+    .service-text {
+        font-size: 14px; 
+    }
+
+    .service-image {
+        max-width: 100%;
+        height: auto;
+    }
+    .news-text {
+        font-size: 14px; 
+    }
+
+    .news-image {
+        max-width: 100%;
+        height: auto;
+    }
 }
 
 
